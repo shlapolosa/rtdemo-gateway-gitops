@@ -9,7 +9,7 @@ spec:
     type: webservice
     properties:
       name: rtdemo-gateway
-      image: healthidpuaeacr.azurecr.io/rtdemo-gateway:5eab600
+      image: healthidpuaeacr.azurecr.io/rtdemo-gateway:53864f3
       language: python
       framework: fastapi
       port: 8080
